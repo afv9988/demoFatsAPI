@@ -5,8 +5,6 @@
 
 1. Intalar python
 
-    Internet is your friend ;)
-
 2. Instalar dependencias
 ```
 $ python -m pip install "fastapi[all]"
@@ -39,4 +37,4 @@ Despues de este punto ya es accesible la direccion como servicio
 Otro ejemplo de controlador-parametro es la siguiente liga 
 [http://127.0.0.1:8000/hola/Amigo](http://127.0.0.1:8000/hola/Amigo)
 
-Donde hola es un controlador-subdirectorio y la palabra "Amigo" es una variable de entrada, pueden cambiarla con su nombre o cualquier otra cosa y ver la salida
+- Donde hola es un controlador-subdirectorio y la palabra "Amigo" es una variable de entrada, pueden cambiarla con su nombre o cualquier otra cosa y ver la salida
