@@ -4,9 +4,11 @@
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
 
 1. Intalar python
-- Internet is your friend ;)
+
+Internet is your friend ;)
 
 2. Instalar dependencias
+
 $ python -m pip install "fastapi[all]"
 
 3. Agregar el codigo de ejemplo en un archivo llamado test.py
@@ -25,7 +27,8 @@ async def holaAmigo(item_id):
     return {"message": "Hola "+item_id}
 ```
 
-4. Navegar al directorio donde se guardo test.py e iniciar Servidor uvicorn
+4. Navegar al directorio donde se guardo test.py e iniciar Servidor uvicor
+
 $ python -m uvicorn test:app --reload
 
 Despues de este punto ya es accesible la direccion como servicio 
