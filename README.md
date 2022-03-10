@@ -2,6 +2,7 @@
 ## Demo para practica de FastAPI
 
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
+[https://testdriven.io/blog/fastapi-mongo/](https://testdriven.io/blog/fastapi-mongo/)
 
 1. Intalar python
 
